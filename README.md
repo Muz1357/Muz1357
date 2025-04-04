@@ -2,7 +2,7 @@
   <img src="https://thumbs.dreamstime.com/b/vector-line-web-banner-data-science-modern-linear-concept-web-vector-line-web-banner-data-science-108705731.jpg" alt="MasterHead">
 </div>
 <h1 align="center">Hi 👋, I'm Mudeen Mohamad</h1>
-<h3 align="center">A Passionate Data Science Enthusiast from Sri Lanka</h3>
+<h3 align="center">A Passionate Data Engineering Enthusiast from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muz1357&label=Profile%20views&color=0e75b6&style=flat" alt="muz1357" /> </p>
 
@@ -13,12 +13,12 @@
   <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=kTwpM9lkrrnW7rxZG1tjv8zzaaCC27Kss09MVDh-49M">
 </div>
 
-I'm a passionate and driven individual with a strong interest in **Data Science** and **Big Data**. Currently pursuing my studies in **Computer Science**, I am constantly exploring new technologies and tools to enhance my skills. I thrive on solving complex problems and turning raw data into meaningful insights. My goal is to contribute to the world of data-driven decision-making and make a positive impact through innovation.
+I'm a passionate and driven individual with a strong interest in **Data Engineering** and **Big Data**. Currently pursuing my studies in **Computer Science**, I am constantly exploring new technologies and tools to enhance my skills. I thrive on building efficient data pipelines, optimizing database performance, and transforming raw data into structured formats. My goal is to contribute to the world of data-driven decision-making and make a positive impact through innovation.
 
-- 🌱 **Currently Learning:** Advanced Machine Learning, Deep Learning, and Big Data Analytics.
-- 💬 **Ask Me About:** Data Science, Big Data, Python, and Machine Learning.
+- 🌱 **Currently Learning:** Data Pipeline Architecture, Cloud Data Engineering, and Distributed Systems.
+- 💬 **Ask Me About:** Data Engineering, Big Data, Python, and SQL.
 - 📫 **How to Reach Me:** [muzeenmohammed6@gmail.com](mailto:muzeenmohammed6@gmail.com)
-- ⚡ **Fun Fact:** I love exploring new datasets as much as I enjoy exploring new places!
+- ⚡ **Fun Fact:** I love optimizing databases as much as I enjoy optimizing my daily workflow!
 
 ---
 
@@ -42,14 +42,17 @@ I'm a passionate and driven individual with a strong interest in **Data Science*
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" />
+  <a href="https://www.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache/apache-official.svg" alt="apache" width="40" height="40" />
   </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40" />
   </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
+  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="hadoop" width="40" height="40" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
@@ -60,11 +63,8 @@ I'm a passionate and driven individual with a strong interest in **Data Science*
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
   </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40" />
   </a>
 </p>
 
