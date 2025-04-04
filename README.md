@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://thumbs.dreamstime.com/b/vector-line-web-banner-data-science-modern-linear-concept-web-vector-line-web-banner-data-science-108705731.jpg" alt="MasterHead">
+  <img src="https://static.digitalworlditalia.it/wp-content/uploads/2023/07/data-engineering-1048x688.png" alt="MasterHead">
 </div>
 <h1 align="center">Hi 👋, I'm Mudeen Mohamad</h1>
 <h3 align="center">A Passionate Data Engineering Enthusiast from Sri Lanka</h3>
