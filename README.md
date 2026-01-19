@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://drive.google.com/file/d/1wckeJva4LJ72HLy0g2OpX01VaVO1KUpn/view?usp=drive_link.png" alt="MasterHead">
+  <img src="https://cdn.imgbin.com/14/10/12/man-working-on-business-analysis-business-analyst-cartoon-zUpL4dZJ.jpg" alt="MasterHead">
 </div>
 <h1 align="center">Hi 👋, I'm Mudeen Mohamad</h1>
 <h3 align="center">Intern Business Analyst | Computer Science Undergraduate from Sri Lanka 🇱🇰</h3>
