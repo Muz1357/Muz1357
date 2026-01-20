@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://img.freepik.com/free-photo/business-text-with-laptop-stationery-white-background_23-2147880631.jpg" alt="MasterHead">
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQG3AP3gPVmYbg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1697471197299?e=2147483647&amp;v=beta&amp;t=dtWyhLaF_PbqxafTJuNhpL4_csPeJzHTJPSDtdf7inI">" alt="MasterHead">
 </div>
 <h1 align="center">Hi 👋, I'm Mudeen Mohamad</h1>
 <h3 align="center">Intern Business Analyst | Computer Science Undergraduate from Sri Lanka 🇱🇰</h3>
